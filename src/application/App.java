@@ -34,7 +34,6 @@ public class App {
         String email = App().nextLine();
 
         Login.verifyAccount(user, email);
-
     }
 
     private static void registerMenu(){
