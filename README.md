@@ -1,6 +1,6 @@
 # Mini sistema de cadastro com Java e MySQL
 ----------------------------------------------------------
-<<z Em desenvolvimento >>
+< Em desenvolvimento >
 
 
 Pontos a serem considerados: 
