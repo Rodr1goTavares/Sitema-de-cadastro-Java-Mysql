@@ -32,7 +32,9 @@ public class App {
         
         System.out.println("Email:");
         String email = App().nextLine();
-        
+
+        Login.verifyAccount(user, email);
+
     }
 
     private static void registerMenu(){
