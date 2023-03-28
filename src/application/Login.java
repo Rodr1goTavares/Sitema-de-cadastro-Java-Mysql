@@ -6,7 +6,7 @@ public class Login {
     public static void verifyAccount(String user, String email){
         System.out.println("Logging...");
         try{
-           boolean checkAccount =  Read.verifyDBaccount(user, email);
+           boolean checkAccount = Read.verifyDBaccount(user, email);
            if(checkAccount){
                 
            }
